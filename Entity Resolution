@@ -1,0 +1,3 @@
+Attached is a sample of companies from the client for the POC. Each entry has been processed through Veridion's entity resolution engine, returning up to 5 candidate matches per row. 
+
+The task is to select the best match for each input. If none are accurate, it can be left unmatched or the correct entity can be found elsewhere. The goal is to resolve every row to a real-world company—if it exists online.
